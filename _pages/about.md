@@ -4,7 +4,7 @@ permalink: /about/
 ---
 # Dillinger
 
-![Ethan Channell](/images/Ethan.png)
+![Ethan Channell](https://github.com/ved-mohan/minimal-mistakes/blob/master/images/Ethan.PNG?raw=true)
 
 hello thjis is a test
 
