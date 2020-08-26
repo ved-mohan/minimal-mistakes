@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: https://yellowjacketconsulting.com/about/
   - title: "Our Team"
-    url: /aboutteam/
+    url: /team/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
