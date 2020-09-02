@@ -1,9 +1,9 @@
 ---
 layout: posts
 title: "Data Analysis"
-date: 2020-9-1
+date: 2020-09-01
 ---
+Machine learning algorithms and their applications to real-world data
 
-* ISYE 3133
-* ISYE 4133
-* ISYE 4134
+Courses:
+* CX 4240: Introduction to Computational Data Analysis
