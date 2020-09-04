@@ -26,7 +26,7 @@ Paulina has interned at two Panamanian companies in her past summers. The first 
 Paulina also interned at Alliance Transport Logistics in Panama, where she joined the Process and Quality department to create a tool for all departments to accurately measure their goal completion each term. In this project, Paulina utilized and improved her Excel skills as well as problem solving, while also having her first remote work experience. The latter allowed her to practice and develop online conference etiquette and organizational skills to stay on task at all times.
 Paulina currently works with Georgia Tech’s Student Center as an Events Services Assistant to update and implement campus event regulations during the COVID-19 pandemic. Paulina also serves as the treasurer for her national service sorority, Omega Phi Alpha. Paulina believes in taking small actions to give back to the community and to the planet, and she wishes to apply all the skills she has learned inside and outside the classroom in Georgia Tech to create better solutions for a sustainable future.
 
-<a href="/Resumes/Paulina.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
+<a> href="/Resumes/Paulina.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
 
 ## Jay Lee
 
@@ -40,7 +40,7 @@ Jay Lee is a senior at Georgia Tech from South Korea majoring in Industrial Engi
 
 Ved Mohan is a senior at Georgia Tech studying Industrial Engineering with a concentration in Economic and Financial Systems. He is excited by working with large groups of people to create elegant solutions to solve complex problems. He has interned in the eCommerce industry with Walmart in California, the Hospitality industry with Focus Brands in Georgia, and performed research for the Gwinnett County Department of Water Resources, also in Georgia. Ved has spent seven years living in Detroit, four in Bangalore, three in Mumbai, and the last seven in Atlanta.
 
-<a href="/Resumes/Ved.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
+<a> href="/Resumes/Ved.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
 
 ## Isabella Pappaterra
 
@@ -48,7 +48,7 @@ Ved Mohan is a senior at Georgia Tech studying Industrial Engineering with a con
 
 Isabella Pappaterra is a fourth-year student at Georgia Tech majoring in Industrial Engineering with a minor in Engineering and Business and a concentration in Analytics and Data Science. She is passionate about learning and taking on challenges and considers her strengths to be analyzing and interpreting data, optimizing processes, and finding unconventional solutions. Isabella has worked two summers for The Timberland Company as an “Engineering Intern” in the manufacturing department. While at Timberland, she analyzed data from automatic operations and used the findings to make plans for improving machine efficiencies; as well as applied her technical skills to perform necessary tasks in a plant such as calculating yields, time studies, and inventories. Isabella looks forward to continuing applying her knowledge as well as learning new things in future projects and work opportunities.  
 
-<a href="/Resumes/Isabella.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
+<a> href="/Resumes/Isabella.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
 
 ## Camila Pozo
 
@@ -64,4 +64,4 @@ Michael Tang is an undergraduate student at Georgia Tech where he is studying In
 problem solving. Michael knows the importance of not only applying innovative strategies to solve modern problems but also effectively communicating your understanding back to the customer. In doing this, he constantly challenges himself to create lasting impact. In the future, he plans to finish his undergraduate engineering degree and complete a Masters in Health Systems.
 
 
-<a href="/Resumes/Michael.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
+<a> href="/Resumes/Michael.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
