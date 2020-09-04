@@ -15,6 +15,8 @@ Sofia Carvajal is a senior at Georgia Tech studying Industrial Engineering with 
 
 Ethan Channell is a 4th year Industrial Engineering student at Georgia Tech with a concentration in Supply Chain. He has experience working as a Project Engineer for Daikin Applied and in the Customer Solution department for UPS. Additionally, he has experience working with Python, R, and SQL in numerous different projects. On campus, he is involved as the president of the business fraternity Alpha Kappa Psi and health analytics research.
 
+<a href="/pdfs/Ethan.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+
 ## Paulina Cucalon
 
 ![Paulina](https://github.com/ved-mohan/minimal-mistakes/blob/master/images/Paulina.jpg?raw=true){:height="700px" width="400px"}
@@ -34,7 +36,10 @@ Jay Lee is a senior at Georgia Tech from South Korea majoring in Industrial Engi
 
 ![Ved](https://github.com/ved-mohan/minimal-mistakes/blob/master/images/VED.png?raw=true){:height="700px" width="400px"}
 
-Ved Mohan is a senior at Georgia Tech studying Industrial Engineering with a concentration in Economic and Financial Systems. He is excited by working with large groups of people to create elegant solutions to solve complex problems. He has interned in the eCommerce industry with Walmart in California, the Hospitality industry with Focus Brands in Georgia, and performed research for the Gwinnett County Department of Water Resources, also in Georgia. Ved has spent 7 years living in Detroit, 3 in Bangalore, 4 in Mumbai, and the last 7 in Atlanta.
+Ved Mohan is a senior at Georgia Tech studying Industrial Engineering with a concentration in Economic and Financial Systems. He is excited by working with large groups of people to create elegant solutions to solve complex problems. He has interned in the eCommerce industry with Walmart in California, the Hospitality industry with Focus Brands in Georgia, and performed research for the Gwinnett County Department of Water Resources, also in Georgia. Ved has spent seven years living in Detroit, four in Bangalore, three in Mumbai, and the last seven in Atlanta.
+
+Resume:
+<a href="/pdfs/Ved.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 
 ## Isabella Pappaterra
 
@@ -54,3 +59,6 @@ Camila Pozo is a senior at Georgia Tech majoring in Industrial and Systems Engin
 
 Michael Tang is an undergraduate student at Georgia Tech where he is studying Industrial Engineering with a concentration in Supply Chain Engineering. His interest in IE comes from his desire to make things more streamlined and increase productivity. During his education at Georgia Tech, he has learned how to apply his diverse set of skills for
 problem solving. Michael knows the importance of not only applying innovative strategies to solve modern problems but also effectively communicating your understanding back to the customer. In doing this, he constantly challenges himself to create lasting impact. In the future, he plans to finish his undergraduate engineering degree and complete a Masters in Health Systems.
+
+Resume:
+<a href="/pdfs/Michael.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
