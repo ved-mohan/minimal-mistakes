@@ -8,6 +8,8 @@ Regression, time series, and other forecasting models and their applications in 
 Tools:
 * R
 * Python
+* Microsoft Excel
 
 Courses:
 * ISYE 4031: Regression and Forecasting
+* ISYE 3232: Stochastic Manufacturing and Service Systems

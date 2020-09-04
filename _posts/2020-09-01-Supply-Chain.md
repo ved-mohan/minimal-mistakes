@@ -1,13 +1,20 @@
 ---
 layout: posts
-title: "Regression and Forecasting"
+title: "Logistics and Supply Chain"
 date: 2020-09-01
 ---
-Regression, time series, and other forecasting models and their applications in various fields of science and engineering
+Application of statistics, optimization, and probability models to transportation, network, and other logistics problems.
 
 Tools:
+* Gurobi
+* ILOG Cplex
+* SAS
 * R
-* Python
+* Microsoft Excel
+
 
 Courses:
-* ISYE 4031: Regression and Forecasting
+* ISYE 4111: Advanced Supply Chain Logistics
+* ISYE 4301: Supply Chain Economics
+* ISYE 3103: Introduction to Supply Chain Modeling: Logistics
+* ISYE 3232: Stochastic Manufacturing and Service Systems

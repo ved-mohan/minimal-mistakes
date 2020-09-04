@@ -14,3 +14,4 @@ Tools:
 Courses:
 * ISYE 3039: Methods and Quality Improvement
 * CX 4240: Introduction to Computational Data Analysis
+* ISYE 4034 - Decision and Data Analytics

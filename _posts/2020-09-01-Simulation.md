@@ -11,3 +11,4 @@ Tools:
 
 Courses:
 * ISYE 3025: Simulation Analysis and Design
+* ISYE 3232: Stochastic Manufacturing and Service Systems
