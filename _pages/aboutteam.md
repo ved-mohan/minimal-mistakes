@@ -1,8 +1,6 @@
 ---
 title: "About our Team"
 permalink: /team/
-header:
-  image: "/images/brittain.jpg"
 ---
 
 ## Sofia Carvajal
