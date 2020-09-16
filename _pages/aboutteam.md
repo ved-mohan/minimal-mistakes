@@ -9,6 +9,8 @@ permalink: /team/
 
 Sofia Carvajal is a senior at Georgia Tech studying Industrial Engineering with a concentration in Supply Chain Engineering. She has previous work experience in Eaton Corporation where she worked as an “Operations for Engineers” intern. During her time at Eaton she used her analytical skills to work in the Product Data Hub and remodeled Eaton’s website, eaton.com. Last summer she worked at Goldman Sachs as an Operations Summer Analyst. While working at Goldman Sachs she analyzed data to see what was causing tax breaks and proposed new solutions to get this issue fixed. Sofia considers that some of her skills are making statistical analysis to improve processes as well as using her interpersonal communications skills to solve problems. She is eager to continue applying what she is learning in school to the work force and is excited to solve new problems.
 
+<a href="/Resumes/Sofia.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
+
 ## Ethan Channell
 
 ![Ethan Channell](https://github.com/ved-mohan/minimal-mistakes/blob/master/images/Ethan.PNG?raw=true){:height="700px" width="400px"}
@@ -34,6 +36,8 @@ Paulina currently works with Georgia Tech’s Student Center as an Events Servic
 
 Jay Lee is a senior at Georgia Tech from South Korea majoring in Industrial Engineering with Economic and Financial concentration. Jay has worked with the local Chamber of Commerce as a data analyst before coming to Georgia Tech. He is specifically interested in financial and computation engineering and has been taking courses in QCF (quantitative computing finance) masters program. He is proficient in python, SQL, Gurobi, R, latex and has completed multiple projects with them. Jay is always eager to learn more and is wants to apply what he has learned for the better of the community.
 
+<a href="/Resumes/Jay.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
+
 ## Ved Mohan
 
 ![Ved](https://github.com/ved-mohan/minimal-mistakes/blob/master/images/VED.png?raw=true){:height="700px" width="400px"}
@@ -55,6 +59,8 @@ Isabella Pappaterra is a fourth-year student at Georgia Tech majoring in Industr
 ![Camila](https://github.com/ved-mohan/minimal-mistakes/blob/master/images/Camila.jpg?raw=true){:height="700px" width="400px"}
 
 Camila Pozo is a senior at Georgia Tech majoring in Industrial and Systems Engineering with a concentration in Supply Chain Engineering. She is originally from the Dominican Republic. In the Dominican Republic she has previously worked at Maritima and Induban, both logistics company. Here she focused on optimizing process by integrating Lean Manufacturing and Six Sigma principle, used Visio to create workflows and flowcharts, and analyzed departments to provide recommendations or areas of improvements. This past summer, she interned with Goldman Sachs as an Operations Business Intelligence Intern. She worked on an outlier and profitability analysis on client rates and commissions and analyzed current accounts to propose improvements. She also completed a Data School where she got certified in Alteryx, and used Tableau and Sequel. She also has experience using Python, R, SAP, and Java. Camila considers some of her skills to be collaboration, communication, and analysis to improve and solve problems. She is looking forward to applying her skills and working with her team to continue to learn and solve problems.
+
+<a href="/Resumes/Camila.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Resume</a>
 
 ## Michael Tang
 
